@@ -1,0 +1,31 @@
+# Smart Expense Tracker 💸
+
+A full-stack web application to track daily expenses with authentication, role-based access, and real-time updates.
+
+## 🔧 Tech Stack
+
+- **Frontend**: React.js
+- **Backend**: Java Spring Boot
+- **Database**: MongoDB
+- **Security**: JWT + Role-Based Auth
+- **DevOps**: Docker, GitHub Actions CI/CD
+- **Extras**: WebSocket, Redis Cache, Swagger Docs
+
+## 🚀 Features
+
+- User Registration & Login
+- Add, Edit, Delete expenses
+- Admin/User Role Separation
+- Real-Time Dashboard Update
+- API Documentation with Swagger
+- Dockerized and CI/CD Deployed
+
+## 📂 Project Structure
+
+- Backend: Spring Boot 
+- Frontend: React
+- Docs: Extra documentation 
+- README.md: This file
+
+# Kairon
+ 
